@@ -1,0 +1,2 @@
+# OpenCV: Nicholas Renotte
+Collection of OpenCV notebooks from Nicholas Renotte's tutorial based on this video [OpenCV Basics](https://youtube.com/playlist?list=PLgNJO2hghbmg0-6EbYR3MJkHJcneXEmwx&si=IZU_LyfSvr4vtOrD).
